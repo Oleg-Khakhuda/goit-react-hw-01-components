@@ -25,8 +25,3 @@ Statistics.propTypes = {
     }),
   ),
 };
-
-Statistics.defaultProps = {
-    title: 'not given prop',
-    label: 'format',
-};
